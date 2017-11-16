@@ -1,0 +1,83 @@
+Knowledge Checks
+
+Question 1
+Which three cardinalities are available in Power BI table relationships?
+Answers :
+1. Many to One
+2. One to One
+3. One to Many
+
+Question 2
+Which two cross filter directions are available in Power BI table relationships?
+Answers : 
+1. Single
+2. Both
+
+Question 3
+Consider the following DAX formula for a calculated column in the Sales table:
+UnitPrice = Sales[Revenue] / Sales[Units]
+Which three statements describe the DAX formula?
+Answers : 
+1. The formula creates a calculated column named UnitPrice.
+2. The value of the calculated column is dependent on the Revenue column.
+3. The value of the calculated column is dependent on the Units column.
+
+Question 4
+Which three options allow you to hide a field from the Report view in Power BI Desktop?
+Answers : 
+1. In Power BI Desktop Data view, right-click the column header on the respective table, and click Hide in Report View.
+2. In Power BI Desktop Relationships view, right-click the field on the respective table, and click Hide in Report View.
+3. In Power BI Desktop Report view, right-click the field on the Fields list, and click Hide.
+
+Question 5
+In Power BI Desktop Report view, which three options will create a measure in the Sales table?
+Answers : 
+1. Select the Sales table in the Fields list, and then click New Measure in the Modelling ribbon.
+2. Create the measure from any table, and then set the Home Table properties to Sales.
+3. On the Fields list, click the ellipsis next to the Sales table or right-click any field in the Sales table, and then click New Measure.
+
+Question 6
+What are the three reasons for which you might use calculated tables?
+Answers : 
+1. To union tables
+2. To perform different types of merge join
+3. To create a table based on the result of a function or formula
+
+Lab
+
+Exercise 1: Manage Table Relationships
+Review the relationship that you have just created on the CountryZip columns. (Hint: Double-click on the newly created relationship).
+What is the cardinality of the relationship?
+Answer : Many to One
+
+What is the Cross filter direction of the relationship?
+Answer : Multiple
+
+Exercise 2: Last Year Comparison
+Answer the following questions using the measures you created. (Do NOT include currency symbols or thousands separators). 
+The fastest way to do this is to drag the measures you created to the Report view and format them as a table visualization. 
+Do not use any level of filtering to answer the questions.
+What is the figure for the Total Sales measure? (to two decimal places)
+Answer : 5127755449.65
+
+What is the figure for the Sales Var % measure? (to two decimal places)
+Answer : 2.74
+
+Exercise 3: Year to Date
+Answer the following questions using the measures you created. 
+(Do NOT include currency symbols or thousands separators). 
+The fastest way to do this is to drag the measures you created to the Report view and format them as a table visualization. 
+Do not use any level of filtering to answer the questions.
+What is the figure for the LY YTD Sales measure? (to two decimal places)
+Answer : 272629284.11
+
+Exercise 4: Market Share
+Answer the following questions using the measures you created. 
+(Do NOT include currency symbols or thousands separators). 
+The fastest way to do this is to drag the measures you created to the Report view and format them as a table visualization. 
+Do not use any level of filtering to answer the questions.
+What is the figure for the Total VanArsdel Sales measure? (to two decimal places)
+Answer : 2276898965.01
+
+What is the figure for the % Sales Market Share measure? (to two decimal places)
+Answer : 44.40
