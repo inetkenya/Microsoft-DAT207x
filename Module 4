@@ -1,0 +1,70 @@
+Knowledge Checks
+
+Question 1
+By default, where does clicking a tile on a Power BI dashboard take you?
+Answer : To the report where the visual was pinned from
+
+Question 2
+When you pin a visual created by the natural language query, to which dashboard is it pinned?
+Answer : The dashboard you selected in the Pin to dashboard window
+
+Question 3
+1/1 point (graded)
+You want to share a dashboard with your colleague. What are two possible ways to achieve this goal?
+Answers : 
+1. Click the ellipsis next to the dashboard name on the Dashboards list, and then click Share.
+2. Click Share from the upper right of the dashboard you want to share.
+
+Question 4
+1/1 point (graded)
+You are viewing a Power BI dashboard in a browser window. What happens when you click the Focus mode of a tile?
+Answer : The tile you selected expands and takes the full space.
+
+Question 5
+1/1 point (graded)
+Which three properties of a tile can you edit in the Power BI dashboard from the Tile details window?
+Answers : 
+1. Title
+2. Subtitle
+3. Destination link
+
+Question 6
+1/1 point (graded)
+What do you need to append to the URL of a Power BI dashboard in order to open it with the navigation pane collapsed by default?
+Answer : ?collapseNavigation=true correct
+
+Question 7
+0/1 point (graded)
+You publish a report from Power BI Desktop to Power BI service. 
+You then make changes to your local report in Power BI Desktop by adding some visualizations. 
+When do the changes synchronize to Power BI service?
+Answer : When you re-publish the Power BI Desktop report
+
+Question 8
+1/1 point (graded)
+What is the purpose of Power BI Personal Gateway?
+Answer : To provide quick and secure data transfer between Power BI service and on-premises data sources that support refresh.
+
+Lab
+
+Exercise 1: Upload PBI Report and Pin Visualizations
+You want to pin existing visualizations from a report to a dashboard. What two scenarios can you do when pinning visualizations?
+Answers : 
+1. You can pin multiple visualizations to a dashboard but you need to do it one at a time.
+2. You can pin the whole report page to a dashboard in one attempt by pinning a live page.
+
+Now try answering the following question by using the Q&A. What is the total sales for Germany in 2014?
+Answer : $6,984,804.82 
+
+Exercise 2: Share Dashboard and Update Report
+Let's confirm that you received the dahsboard sharing invitation email. What is the sender's name?
+Answer : Microsoft Power BI 
+
+As you can see, when you update a Power BI Desktop file and re-publish it, the report in Power BI service (that is based on that file) will get updated. What about the Dashboard? Do pinned visualizations (tiles) get updated when the report is updated?
+Answer : No
+
+Exercise 3: Schedule Data Refresh
+Which two frequencies are available for scheduled refresh?
+Answers : 
+1. Daily
+2. Weekly
