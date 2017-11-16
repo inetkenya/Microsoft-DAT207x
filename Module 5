@@ -1,0 +1,35 @@
+Knowledge Checks
+
+Question 1
+What do you need to do to prepare an Excel workbook before uploading it to Power BI?
+Answer : Format the data as an Excel table.
+
+Question 2
+What happens when you upload an Excel workbook that has a Power View report to Power BI?
+Answer : The Excel Power View report will be converted to a Power BI report.
+
+Question 3
+What happens when you connect to an Excel workbook that is hosted at OneDrive for Business from Power BI?
+Answer : The Excel Report will be created in Power BI.
+
+Lab
+
+Exercise 1: Upload Excel File with an Excel Table
+What is the total revenue for Canada in 2014? (to two decimal places)
+Answer : 1674868.34
+
+In which year VanArsdel sold the most number of units in Canada?
+Answer : 2006
+
+Exercise 2: Upload an Excel File with a Data Model
+Using the Power View1 report, which manufacturer has the most growth in total units between May and June 2015 (for all categories)?
+Answer : Pirum
+
+What about for only the Youth category? Which manufacturer has the most growth in total units between May and June 2015, 
+for the Youth category?
+Answer : Natura
+
+Which manufacturer(s) does not have products for the Youth category?
+Answers : 
+1. Pirum
+2. VanArsdel
