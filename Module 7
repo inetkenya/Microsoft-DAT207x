@@ -1,0 +1,28 @@
+Knowledge Checks
+
+Question 1
+Which three data sources allow you to use direct connection from Power BI?
+Answers : 
+1. Azure SQL Database
+2. Azure SQL Data Warehouse
+3. SQL Server Analysis Services
+
+Question 2
+When you connect to a model in SQL Server Analysis Service, what is shown in the Navigator window?
+Answer : Summary showing the available dimensions and measures
+
+Lab
+
+Exercise 1: Direct Connectivity From Power BI Desktop
+Select year 2015 from the slicer and review the card visualization. What is the total Revenue for the year 2015?
+Answer : 125.84M
+
+What is the total Revenue for the year 2014?
+Answer : 251.79M
+
+Exercise 2: Direct Connectivity From Power BI Service
+Select year 2015 from the slicer and review the card visualization. What is the total Units for the year 2015?
+Answer : 
+
+What is the total Units for the year 2014?
+Answer : 427K
