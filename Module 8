@@ -1,0 +1,18 @@
+Knowledge Checks
+
+Question 1
+Which programming language you would use to create custom visuals?
+Answer : TypeScript
+
+Question 2
+What is the extension of a Power BI custom visual file, downloaded from the Power BI visuals gallery?
+Answer : .pbiviz 
+
+Lab
+
+Exercise: Use Custom Visuals
+How many level(s) of "donut" is created in the Sunburst visual?
+Answer : Two
+
+Review the Radar chart visual you created. Which Region has the highest Total sales?
+Answer : East 
