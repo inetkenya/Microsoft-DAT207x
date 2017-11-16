@@ -1,0 +1,83 @@
+Knowledge check
+
+Question 1
+When you connect to an Access database, which entities are shown in the Navigator window?
+Answer : Tables from the Access database
+
+Question 2
+Which three statements describe the Applied Steps area in the Query Editor window?
+Answers :
+1. It records the list of steps from connecting to the data source to all the steps applied to the data.
+2. The recorded list follows the sequence of steps applied to the data source.
+3. You can modify the connection to the data source by modifying the Source step settings.
+
+Question 3
+Which three transformations are available when you right-click a column header in the Query Editor window?
+Answers: 
+1. Remove
+2. Change Type
+3. Duplicate Column
+
+Question 4
+When using the “Split Column by Delimited” transformation, which option may result in more than two new columns?
+Answer : At each occurrence of the delimiter
+
+Question 5
+Which three views are available in Power BI Desktop?
+Answers: 
+1. Report
+2. Data
+3. Relationships
+
+Question 6
+You have four queries named Query 1, Query 2, Query 3, and Query 4 in the Power BI desktop. 
+You are creating Query 5, which will be appended at the end of Query 3.
+When you load the data, which queries will be refreshed?
+Answer : Query 3 and Query 5
+
+Question 7
+Consider the following custom column formula:
+
+= if [Country] = “USA” then “United States” else [Country]
+
+Which of the following statements describes the value of the custom column formula?
+Answer : The value will either be “United States” or whatever the value of the Country column is.
+
+Question 8
+Which transformation option converts rows as columns and columns as rows?
+Answer : Transpose
+
+Lab 1
+
+Exercise 1: Import Data from Access Database
+Answer the following question by reviewing the imported data in Power BI Desktop. (Hint: Use the Data view).
+How many rows were imported from the Date query?
+Answer : 5844
+
+How many rows were imported from the Locations query?
+Answer : 99618
+
+How many rows were imported from the Manufacturer query?
+Answer : 14
+
+How many rows were imported from the Products query?
+Answer : 2412
+
+How many rows were imported from the Sales table?
+Answer : 9985368
+
+Exercise 2: Import Data from a Folder Containing CSV Files
+Answer the following question by reviewing the imported data in Power BI Desktop. (Hint: Use the Data view).
+How many rows were imported from the International Sales query?
+Answer : 797244
+
+How many rows are now in the Sales query?
+Answer : 10782612
+
+Exercise 3: Import a Less Structured Data from an Excel File
+Answer the following question by reviewing the imported data in Power BI Desktop. (Hint: Use the Data view).
+How many rows were imported from the Country Population query?
+Answer : 75 
+
+How many distinct values of the Year column were imported from the Country Population query?
+Answer : 15
