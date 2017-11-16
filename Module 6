@@ -1,0 +1,57 @@
+Knowledge Checks
+
+Question 1
+Which three options can you add as a group member?
+Answers : 
+1. Email addresses
+2. Security groups
+3. Distribution Lists
+
+Question 2
+Which two options you can give access to a content pack?
+Answers : 
+1. Power BI Group
+2. Entire Organizations
+
+Question 3
+Which two of the following happen when you personalize a content pack?
+Answers : 
+1. A copy of a content pack where you can make changes is created.
+2. The published version of the content pack is disconnected from the personalized content pack.
+
+Question 4
+When can you update a published content pack?
+Answer : Anytime after you made changes to the published content pack
+
+Question 5
+You create a Power BI report using Power BI desktop and save the report as .pbix file. You upload the file to OneDrive for Business. Using Power BI service, you connect to the file hosted on OneDrive for Business. What happens when you update the .pbix file on OneDrive for Business?
+Answer : The corresponding report in Power BI service also gets updated automatically.
+
+Question 6
+What are the two privacy levels you can assigned to a group?
+Answers : 
+1. Public
+2. Private
+
+Lab
+
+Exercise: Create, Edit, and Share Content Pack
+Which two types of access to Power BI content, can you give to members of a group?
+Answers : 
+1. Edit
+2. View
+
+Which other report/datasets are selected along with your defined selection?
+Answers : 
+1.  Lab 4 - Starting Report
+2. Lab 4 - Starting Dataset
+
+How many contents (dashboards, reports, and datasets) are brought into the workspace?
+Answer : 5
+
+Which content is available in this Group?
+Answers : 
+1. VanArsdel Sales Dashboard
+2. Lab 4 - Starting Report
+3. Lab 4 - Starting Dataset
+4. Lab 5 - Canada Dataset
