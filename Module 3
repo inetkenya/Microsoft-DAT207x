@@ -1,0 +1,103 @@
+Knowledge Checks
+
+Question 1
+Which three fields are available when creating a Pie chart for visualization?
+Answers :
+1. Legend
+2. Details
+3. Values
+
+Question 3
+By default, which level of filter behaves the same as a slicer in a report in Power BI Desktop
+Answer : Page level filter
+
+Question 6
+When creating a waterfall chart, which two field options that you need to define?
+Answers :
+1. Category
+2. Y Axis
+
+Question 7
+Which visualization would you use to show progress toward a particular target?
+Answer : Gauge
+
+Question 8
+Which three shapes can you create using the Insert Shapes feature in Power BI Desktop?
+Answers :
+1. Triangle
+2. Rectangle
+3. Oval
+
+Question 1
+From which two options can you customize your report page layout?
+Answers :
+1. From the Report ribbon, Page View option
+2. From the Visualizations, Format option
+
+Question 2
+Which of the following option would you use to modify the interactions flow between visuals in a Power BI report?
+Answer : Edit Interactions
+
+Question 3
+When you make a copy of a page in your report by using Duplicate Page, which visualizations from the page are duplicated?
+Answer : All visualizations
+
+Question 4
+Which of the following is not an option for Default Summarization?
+Answer : Standard deviation
+
+Question 5
+Which four options you can use to modify the Z order of a visualization?
+Answers :
+1. Send to Back
+2. Bring to Front
+3. Bring Forward
+4. Send Backward
+
+Lab
+
+Exercise 1: Cross-Tabular Report
+Answer the following questions using the report you created. (Do NOT include currency symbols or thousands separators). 
+Do not use any level of filtering to answer the questions.
+What is VanArsdel's sales for December 2013? (to two decimal places)
+Answer : 13981765.42
+
+What is VanArsdel's total units for the March 2013?
+Answer : 42620
+
+Exercise 2: Part-to-Whole Report
+Answer the following questions using the report you created. 
+(Do NOT include currency symbols or thousands separators). Do not use any level of filtering to answer the questions.
+In January 2014, what is VanArsdel's sales, from all manufacturers, for Urban category and Moderation segment? 
+(to two decimal places) (Hint: Try hovering on the chart)
+Answer : 6732251.98
+
+In May 2015, what is VanArsdel's sales, from all manufacturers, for Mix category and All Season segment? 
+(to two decimal places) (Hint: Try hovering on the chart)
+Answer : 859987.07
+
+Exercise 3: Relationship Report
+As you can see, in the year 2015, Moderation segment made the most of VanArsdel's sales. 
+It is not always the case. Use the Play Axis to investigate.
+In which year the Moderation segment first took over as the segment with most sales?
+Answer : 2009
+
+What about in terms of Units? In which year the Moderation segment first took over as the segment with most units?
+Answer : 2011
+
+Exercise 4: Trend Report
+In which year the growth of total sales were not matched by the growth of total units?
+Answer : 2006
+
+Which year saw the biggest drop in total sales?
+Answer : 2009
+
+What about total units? Which year saw the biggest drop in total units?
+Answer : 2009
+
+Exercise 5: Rank Report
+What is the top product in terms of sales for the year 2010?
+Answer : Maximus UM-11
+
+What about in terms of units? What is the top product in terms of total units for the year 2010?
+Answer : Maximus UM-43
